@@ -5,5 +5,6 @@ public class Multiply {
         int a = 10;
         int b = 3;
         System.out.println(a * b);
+        System.out.println("result for division: " + a/b);
     }
 }
